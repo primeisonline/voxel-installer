@@ -97,7 +97,7 @@ function App() {
 
             <div className="inline-block">
               <span className="px-4 py-1.5 bg-red-600/20 border border-red-600/50 text-red-500 text-xs font-medium tracking-wider rounded-[8px]">
-                VERSIÓN 2.1.0 STABLE
+                VERSIÓN 1.0.0 STABLE
               </span>
             </div>
 

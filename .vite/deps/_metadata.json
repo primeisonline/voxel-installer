@@ -1,0 +1,52 @@
+{
+  "hash": "57a6836a",
+  "configHash": "25775fcb",
+  "lockfileHash": "60753fc2",
+  "browserHash": "9c8a7691",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "585ab0e7",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "dd4655dc",
+      "needsInterop": true
+    },
+    "@heroui/react": {
+      "src": "../../node_modules/@heroui/react/dist/index.mjs",
+      "file": "@heroui_react.js",
+      "fileHash": "4d40b098",
+      "needsInterop": false
+    },
+    "lucide-react": {
+      "src": "../../node_modules/lucide-react/dist/esm/lucide-react.js",
+      "file": "lucide-react.js",
+      "fileHash": "60a07cca",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-YBFRUR3B": {
+      "file": "chunk-YBFRUR3B.js"
+    },
+    "es-3XGKVEDE": {
+      "file": "es-3XGKVEDE.js"
+    },
+    "dist-LFI3ERNN": {
+      "file": "dist-LFI3ERNN.js"
+    },
+    "src-UW24ZMRV-27CYTG2A": {
+      "file": "src-UW24ZMRV-27CYTG2A.js"
+    },
+    "chunk-R3YTPDTX": {
+      "file": "chunk-R3YTPDTX.js"
+    },
+    "chunk-JRE55LYH": {
+      "file": "chunk-JRE55LYH.js"
+    }
+  }
+}
